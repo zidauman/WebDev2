@@ -1,0 +1,48 @@
+/*
+Esse é o arquivo CSS.
+Você pode colocar um código numa tag pelo nome da tag, pelo id dela, pela classe (de um grupo de tags).
+*/
+
+
+body{
+	background: #A9A9A9;
+	padding: 32px 38px 33px 37px; border-top-style: solid; border-top-width: 0px; border-left-width: 0px; border-left-style: solid;
+ 	background-image: url("wood.jpg");
+}
+
+h1{
+	color: red;
+
+}
+
+#id{
+ /* ID */
+}
+
+p{
+	background-color: #fff
+}
+
+a{
+  /* a */
+}
+
+a:hover{
+ /* Estados */
+}
+
+header a{
+ /* Nesting */
+}
+
+ol{
+	list-style: decimal-leading-zero;
+
+}
+
+table{
+	background: #fff
+
+}
+
+
